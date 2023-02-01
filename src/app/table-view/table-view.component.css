@@ -1,0 +1,30 @@
+
+p {
+    font-family: Lato;
+  }
+div{
+    background-color: #9d6972;
+    width: 226px;
+    height: 43px;
+    font-size: 26px;
+    text-align: center;
+    margin-left: 663px;
+}
+h1{
+    text-align: center;
+    font-family: ui-sans-serif;
+}
+span{
+    text-align: center;
+}
+svg{
+    width: 226px;
+    height: 43px;
+    margin-left: -106px;
+}
+div:hover{
+    background-color: rgb(187, 159, 194);
+}
+button{
+    margin-left: 752px;
+}
